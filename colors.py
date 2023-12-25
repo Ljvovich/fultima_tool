@@ -1,0 +1,9 @@
+YELLOW_TEXT = '#d5db1a'
+PURPLE = "#9e23c4"
+GREY = '#ABABAB'
+BLACK = '#000000'
+RED = '#a10303'
+MANA_BLUE = '#45b6fe'
+GREEN = '#04570d'
+DEFAULT_COLOR = '#f0ede2'
+SOFT_GREEN = '#92d44c'
